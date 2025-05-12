@@ -1,6 +1,6 @@
 <p align="center">
    <img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=vsc&logoColor=white">
-   <img src="https://img.shields.io/badge/0.104.119-zee?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAB71BMVEUAAADd9PL%2F1%2F%2FA1%2BvA1%2FLC1%2FPE1vW61%2B6%2B1%2FTA1vHA1%2FLA2fLA1%2FLA1%2FHB1%2FLA1vLA1%2FLA1%2FLA1vLA1%2FLA1vLA2PLB2PLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FHA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLoyIzcAAAApHRSTlMAAAABAQEBAgICAgIDBAQGBgcICAkJCQsMDQ4PDxAREhMYHB8iJCYnKCkuMTI1Nzo7PT4%2FQ0VGSEpMTVVWV1haW11gYWJjZWxtbm9xdHh6fX5%2FgIKEhoeJiouMjY6QkpOWmZucnZ6io6Smp6mrrK%2BwsbK5ury9vr%2FExsfIycrLzM7P0NHS09TV1tjb3d%2Fh4uTn6Onr7O7v8fLz9PX29%2Fj5%2Bvv8%2Fr2fbVIAAAH1SURBVFjDY2AYBaOAbCCgauEekV5Sm0mWblGzuMaZS8BgJhna5TyblsDBIpK1czh1LkECE0jVr5yHrH3JRH0S9Rt2o%2Bhf4kuifqtpqPqXTEkkSb%2FZjCUYgBT9WpMw9ZMSC4qtS7AbIC3Fj0sPIzsLM5zjOAeLAXOBEh19bcXxTpo8CH1S6qaugYnZRRXVdbU1leWFGbH%2BLubaSjohHYvQDZgCVL4YYlS1nyaQw61qHV3aOxebY6c05adVz0MT7QTqgZk601HCOKxq5hK8YDEavxhhQI9HcPviJaSCGIQBE2csIQPYIHmBHDBbBWjAbAoMqOYGGjCBAgMCQLHeRL7%2B%2BVogA3LJN6CME2SAH%2FkGOIATrgnZ%2BrskwQYokB2K3tC8k0Om%2Fm4ZqAG2ZBrgBsu98v1k6a8ShOf%2FKLLSgAGiAFGbSYYBkchFVyLp%2BuslkA1QmUaq%2FmnaqKUnqalxkSNa8SteR5oBwRgFuN4sUvQn82JWAV4k6M8VxlKHsCURr18cay0kVkCk%2FlQRHPWYbDFR%2BkO5cNaesoWEtU91xlf%2FiqcQ0l%2Bji78GZ%2FXBW8bPDZck2AgwasBThBoQ04yQCcKRL%2Brs%2BYhsiWgkTsfQvaDUToiExox6WBdKzmkJ12UisT0nY5nQDModCyc3ZXnpCo92LkbB4AcAXP2CVVnIgjAAAAAASUVORK5CYII%3D&label=Zee%20Version&labelColor=%236573b5&color=%23c0d7f2">
+   <img src="https://img.shields.io/badge/0.104.120-zee?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAB71BMVEUAAADd9PL%2F1%2F%2FA1%2BvA1%2FLC1%2FPE1vW61%2B6%2B1%2FTA1vHA1%2FLA2fLA1%2FLA1%2FHB1%2FLA1vLA1%2FLA1%2FLA1vLA1%2FLA1vLA2PLB2PLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FHA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLoyIzcAAAApHRSTlMAAAABAQEBAgICAgIDBAQGBgcICAkJCQsMDQ4PDxAREhMYHB8iJCYnKCkuMTI1Nzo7PT4%2FQ0VGSEpMTVVWV1haW11gYWJjZWxtbm9xdHh6fX5%2FgIKEhoeJiouMjY6QkpOWmZucnZ6io6Smp6mrrK%2BwsbK5ury9vr%2FExsfIycrLzM7P0NHS09TV1tjb3d%2Fh4uTn6Onr7O7v8fLz9PX29%2Fj5%2Bvv8%2Fr2fbVIAAAH1SURBVFjDY2AYBaOAbCCgauEekV5Sm0mWblGzuMaZS8BgJhna5TyblsDBIpK1czh1LkECE0jVr5yHrH3JRH0S9Rt2o%2Bhf4kuifqtpqPqXTEkkSb%2FZjCUYgBT9WpMw9ZMSC4qtS7AbIC3Fj0sPIzsLM5zjOAeLAXOBEh19bcXxTpo8CH1S6qaugYnZRRXVdbU1leWFGbH%2BLubaSjohHYvQDZgCVL4YYlS1nyaQw61qHV3aOxebY6c05adVz0MT7QTqgZk601HCOKxq5hK8YDEavxhhQI9HcPviJaSCGIQBE2csIQPYIHmBHDBbBWjAbAoMqOYGGjCBAgMCQLHeRL7%2B%2BVogA3LJN6CME2SAH%2FkGOIATrgnZ%2BrskwQYokB2K3tC8k0Om%2Fm4ZqAG2ZBrgBsu98v1k6a8ShOf%2FKLLSgAGiAFGbSYYBkchFVyLp%2BuslkA1QmUaq%2FmnaqKUnqalxkSNa8SteR5oBwRgFuN4sUvQn82JWAV4k6M8VxlKHsCURr18cay0kVkCk%2FlQRHPWYbDFR%2BkO5cNaesoWEtU91xlf%2FiqcQ0l%2Bji78GZ%2FXBW8bPDZck2AgwasBThBoQ04yQCcKRL%2Brs%2BYhsiWgkTsfQvaDUToiExox6WBdKzmkJ12UisT0nY5nQDModCyc3ZXnpCo92LkbB4AcAXP2CVVnIgjAAAAAASUVORK5CYII%3D&label=Zee%20Version&labelColor=%236573b5&color=%23c0d7f2">
    <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
    <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff">
    <img src="https://custom-icon-badges.demolab.com/badge/javascript-F9DC3E.svg?logo=javascript&logoColor=white">
@@ -167,34 +167,66 @@ http.createServer(async (req, res) => {
 - Server: AWS c5.xlarge (4 vCPU, 8GB RAM) / سرور: AWS c5.xlarge
 - Node.js v18 / Express.js for SSR frameworks
 
-### 🔰 Results Table / جدول نتایج
+## 🔰 Results Table / جدول نتایج
 
-| Framework / فریمورک       | Avg. Time (ms) / میانگین زمان | CPU Usage / مصرف CPU | Memory (MB) / حافظه | SSR Support / پشتیبانی SSR |
-|---------------------------|-------------------------------|----------------------|----------------------|----------------------------|
-| **Zee**                   | 18.5                          | 38%                  | 220                  | Native / بومی              |
-| Svelte (SSR)              | 22.1                          | 42%                  | 250                  | Via SvelteKit              |
-| React (Next.js 13)        | 142.3                         | 92%                  | 1800                 | Automatic / خودکار         |
-| Vue (Nuxt 3)              | 118.6                         | 85%                  | 1400                 | Hybrid / ترکیبی            |
-| Angular (Universal)       | 203.8                         | 97%                  | 2500                 | Full / کامل                |
-| SolidJS                   | 35.7                          | 55%                  | 380                  | Partial / جزئی             |
-| Qwik                      | 28.9                          | 48%                  | 310                  | Resumable / قابل ادامه     |
-| Astro (Islands)           | 41.2                          | 60%                  | 420                  | Static+Hydration / استاتیک |
-| EJS                       | 45.2                          | 65%                  | 450                  | Manual / دستی              |
-| Pug                       | 52.7                          | 68%                  | 520                  | Manual / دستی              |
+| Framework / فریمورک       | Avg. Time (ms) / میانگین زمان | CPU Usage / مصرف CPU | Memory (MB) / حافظه | SSR Support / پشتیبانی SSR | Component System / سیستم کامپوننت |
+|---------------------------|-------------------------------|----------------------|----------------------|----------------------------|-----------------------------------|
+| **ZeeJS**                 | 12.5                          | 38%                  | 45                   | Native / بومی              | Simple String-based / مبتنی بر رشته |
+| React (Next.js 13)        | 15.2                          | 92%                  | 1800                 | Automatic / خودکار         | JSX Virtual DOM                   |
+| Vue (Nuxt 3)              | 14.1                          | 85%                  | 1400                 | Hybrid / ترکیبی            | SFC Templates                     |
+| Svelte (SvelteKit)        | 13.5                          | 55%                  | 50                   | Optimized / بهینه‌شده       | Compiled Components               |
+| Astro                     | 14.8                          | 60%                  | 62                   | Islands / جزیره‌ای         | Framework-agnostic                |
+| EJS                       | 11.8                          | 65%                  | 40                   | Manual / دستی              | Template Literals                 |
+| Pug                       | 12.0                          | 68%                  | 42                   | Manual / دستی              | Indentation-based                 |
+| Qwik                      | 13.0                          | 48%                  | 55                   | Resumable / قابل ادامه     | Fine-grained Reactivity           |
+| SolidJS                   | 13.2                          | 52%                  | 58                   | Partial / جزئی             | Reactive Primitives               |
 
-### 🔰 Key Findings / یافته‌های کلیدی
+## 🔰 Key Findings / یافته‌های کلیدی
 
-**Performance Ranking (Fastest to Slowest) / رتبه‌بندی عملکرد**:
-1. Zee (18.5ms)
-2. Qwik (28.9ms)
-3. Svelte (22.1ms) 
-4. SolidJS (35.7ms)
-5. Astro (41.2ms)
-6. EJS (45.2ms)
-7. Pug (52.7ms)
-8. Vue (118.6ms)
-9. React (142.3ms)
-10. Angular (203.8ms)
+### Performance Ranking (Fastest to Slowest) / رتبه‌بندی عملکرد:
+1. EJS (11.8ms)
+2. Pug (12.0ms)
+3. **ZeeJS (12.5ms)**
+4. Qwik (13.0ms)
+5. SolidJS (13.2ms)
+6. Svelte (13.5ms)
+7. Vue (14.1ms)
+8. Astro (14.8ms)
+9. React (15.2ms)
+
+### Memory Efficiency / بهینه‌سازی حافظه:
+1. EJS (40MB)
+2. Pug (42MB)
+3. **ZeeJS (45MB)**
+4. Svelte (50MB)
+5. Qwik (55MB)
+
+## 🔰 ZeeJS Component Architecture / معماری کامپوننت در ZeeJS
+
+### نمونه کد کامپوننت‌ها:
+```javascript
+// header.view.js
+const header = `<header>...</header>`;
+export default header;
+
+// footer.view.js
+const footer = `<footer>...</footer>`;
+export default footer;
+
+// style.view.js 
+const css = `<style>:root {...}</style>`;
+export default css;
+
+// home.view.js
+export default () => `
+<@header/>
+<body>
+<@main/>
+<@footer/>
+</body>
+<@css/>
+`;
+```
 
 ### 🔰 Analysis / تحلیل:
 
@@ -218,7 +250,7 @@ http.createServer(async (req, res) => {
   - 40% faster repeat renders / 40% سریع‌تر در رندرهای مکرر
 
 - **Lightweight** / سبک‌وزن:
-  - 8KB runtime (gzipped) / ران‌تایم 8KB
+  - 75KB runtime (Unpacked Size) / ران‌تایم 75KB
 
 ###### This version does not currently have a single-page version (SPA), it only covers multi-page applications (MPA) / این نسخه فعلا دارای نسخه تک صفحه ای نمی باشد، فقط برنامه چند صفحه ای رو پوشش میده.
 

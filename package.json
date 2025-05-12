@@ -1,6 +1,6 @@
 {
     "name": "try-zee",
-    "version": "0.104.117",
+    "version": "0.104.118",
     "description": "🔍 Fast and Minimalist frontend library",
     "main": "./lib/view/main.js",
     "type": "module",

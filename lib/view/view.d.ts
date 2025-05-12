@@ -1,5 +1,5 @@
 // view.d.ts
-declare module "zee/view" {
+declare module "try-zee/view" {
     import { URL } from "node:url";
 
     interface RegexPatterns {

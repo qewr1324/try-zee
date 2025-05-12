@@ -1,6 +1,6 @@
 {
     "name": "try-zee",
-    "version": "0.104.120",
+    "version": "0.104.121",
     "description": "🔍 Fast and Minimalist frontend library",
     "main": "./lib/view/main.js",
     "type": "module",
@@ -12,6 +12,12 @@
         "./root": {
             "default": "./lib/root/main.js",
             "types": "./lib/root/root.d.ts"
+        }
+    },
+    "typesVersions": {
+        "*": {
+          "view": ["./lib/view/view.d.ts"],
+          "root": ["./lib/root/root.d.ts"]
         }
     },
     "bin": {

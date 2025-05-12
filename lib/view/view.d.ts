@@ -47,7 +47,7 @@ declare module "try-zee/view" {
      * @link [website](https://www.zee.com/)
      * @link [github](https://github.com/qewr1324)
      * @returns {String} `Root` | `Render`
-     * @version 🔗 v0.25.34
+     * @version 🔗 v0.50.56
      */ 
     export default class zee {
         private static essentialCache: Map<string, any>;
@@ -59,7 +59,7 @@ declare module "try-zee/view" {
          *
          * @returns {String} `string`
          * @type `static`
-         * @version 🔗 v0.15.8
+         * @version 🔗 v0.17.12
          */
         static Roots(): Promise<void>;
 
@@ -74,7 +74,7 @@ declare module "try-zee/view" {
          * @returns {String} `return html page`
          * @throws Error if page is invalid or rendering fails
          * @type `static`
-         * @version 🔗 v0.21.43
+         * @version 🔗 v0.28.46
          */
         static Render(
             page: string,
@@ -92,7 +92,7 @@ declare module "try-zee/view" {
          * @returns {String} `return static content`
          * @returns {Headers} `cache files in browser with extension '~.js = 1 hour | ~.png = 1 year'`
          * @type `static`
-         * @version 🔗 v0.4.4
+         * @version 🔗 v0.21.20
          */
         static staticRender(
             url: URL,

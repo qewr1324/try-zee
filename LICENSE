@@ -1,0 +1,79 @@
+پروانه آپاچی نسخه ۲.۰
+Apache License Version 2.0
+
+ژانویه ۲۰۰۴
+January 2004
+
+http://www.apache.org/licenses/
+_________________________________________________
+
+## پیش‌گفتار | Preamble
+
+این پروانه شرایط قانونی برای استفاده، تکثیر و توزیع نرم‌افزار Zee و آثار مشتق از آن را تعیین می‌کند.
+This license establishes legal terms for using, reproducing, and distributing Zee software and its derivatives.
+
+## بخش ۱: تعاریف | Section 1: Definitions
+
+۱.۱ "پروانه" یا "License": شرایط مندرج در این سند
+      "License": The terms and conditions in this document
+
+۱.۲ "اعطاکننده" یا "Licensor": امیرحسین محمدی فرد، مالک حقوقی پروژه Zee
+      "Licensor": Amir Hussein Muhammadi Fard, legal owner of Zee project
+
+۱.۳ "شما" یا "You": هر فرد یا نهادی که از این پروانه استفاده می‌کند
+      "You": Any individual or entity exercising permissions under this License
+
+۱.۴ "کار اصلی" یا "Work": نرم‌افزار Zee با تمام اجزای آن
+      "Work": The Zee software including all its components
+
+## بخش ۲: اعطای حقوق | Section 2: Grant of Rights
+
+۲.۱ اعطاکننده به شما اجازه می‌دهد:
+     Licensor grants you permission to:
+
+- استفاده از کار اصلی برای هر منظوری (تجاری/غیرتجاری)
+  Use the Work for any purpose (commercial/non-commercial)
+
+- ایجاد و توزیع آثار مشتق
+  Create and distribute Derivative Works
+
+- تکثیر و توزیع کپی‌هایی از کار اصلی یا آثار مشتق
+  Reproduce and distribute copies of the Work or Derivative Works
+
+۲.۲ این حقوق به صورت جهانی، غیرانحصاری و رایگان اعطا می‌شوند.
+     These rights are granted worldwide, non-exclusively and free of charge.
+
+## بخش ۳: شرایط توزیع | Section 3: Redistribution Conditions
+
+۳.۱ هنگام توزیع کار اصلی یا آثار مشتق، باید:
+     When distributing the Work or Derivatives, you must:
+
+- اعلان حق تکثیر اصلی را حفظ کنید
+  Retain all original copyright notices
+
+- کپی کامل این پروانه را ضمیمه کنید
+  Include a complete copy of this License
+
+- تغییرات انجام شده را به وضوح مشخص کنید
+  Clearly state any modifications made
+
+۳.۲ اگر کار شامل فایل NOTICE باشد، باید محتوای آن را در توزیع‌ها حفظ کنید.
+     If the Work includes a NOTICE file, you must preserve its contents in distributions.
+
+## بخش ۴: محدودیت مسئولیت | Section 4: Limitation of Liability
+
+۴.۱ نرم‌افزار به صورت "همانطور که هست" (AS IS) ارائه می‌شود.
+     The software is provided "AS IS".
+
+۴.۲ اعطاکننده هیچ گونه تضمین صریح یا ضمنی نمی‌دهد.
+     Licensor gives no express or implied warranties.
+
+۴.۳ اعطاکننده مسئول هیچ گونه خسارت مستقیم، غیرمستقیم، اتفاقی یا خاص نیست.
+     Licensor is not liable for any direct, indirect, incidental or special damages.
+
+## بخش ۵: پذیرش و امضا | Section 5: Acceptance and Signature
+
+با استفاده از این نرم‌افزار، شما تمام شرایط این پروانه را می‌پذیرید.
+By using this software, you accept all terms of this License.
+
+_________________________________________________

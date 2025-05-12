@@ -1,0 +1,86 @@
+{
+    "name": "try-zee",
+    "version": "0.104.117",
+    "description": "🔍 Fast and Minimalist frontend library",
+    "main": "./lib/view/main.js",
+    "type": "module",
+    "exports": {
+        "./view": {
+            "default": "./lib/view/main.js",
+            "types": "./lib/view/view.d.ts"
+        },
+        "./root": {
+            "default": "./lib/root/main.js",
+            "types": "./lib/root/root.d.ts"
+        }
+    },
+    "bin": {
+        "zee": "./bin/cli.js"
+    },
+    "scripts": {
+        "test": "node main.js"
+    },
+    "devDependencies": {
+        "@eslint/js": "^9.26.0",
+        "@rollup/plugin-commonjs": "^28.0.3",
+        "@rollup/plugin-image": "^3.0.3",
+        "@rollup/plugin-json": "^6.1.0",
+        "@rollup/plugin-node-resolve": "^16.0.1",
+        "@rollup/plugin-terser": "^0.4.4",
+        "eslint": "^9.26.0",
+        "globals": "^16.1.0",
+        "rollup": "^4.40.2"
+    },
+    "peerDependenciesMeta": {
+        "@rollup/plugin-commonjs": { "optional": true },
+        "@rollup/plugin-image": { "optional": true },
+        "@rollup/plugin-json": { "optional": true },
+        "@rollup/plugin-node-resolve": { "optional": true },
+        "@rollup/plugin-terser": { "optional": true },
+        "rollup": { "optional": true }
+    },
+    "compilerOptions": {
+        "checkJs": true,
+        "strict": true
+    },
+    "keywords": [
+        "zee",
+        "component",
+        "frontend",
+        "javascript",
+        "template",
+        "engine",
+        "ssr",
+        "mpa",
+        "zeeConfig",
+        "configZee",
+        "config",
+        "static-files",
+        "cache",
+        "staticroot",
+        "zee-p",
+        "try-zee"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/qewr1324/try-zee.git"
+    },
+    "homepage": "https://zeejs.com",
+    "bugs": "https://github.com/qewr1324/try-zee/issues/",
+    "funding": "https://zeejs.com",
+    "files": [
+        "LICENSE",
+        "README.md",
+        "lib",
+        "main.js",
+        "NOTICE",
+        "rollup.config.js",
+        "bin",
+        "docs"
+    ],
+    "readmeFilename": "README.md",
+    "license": "Apache License 2.0",
+    "engines": {
+        "node": "^18.18.0 || ^20.9.0 || >=21.1.0"
+    }
+}

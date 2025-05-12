@@ -1,6 +1,6 @@
 <p align="center">
    <img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=vsc&logoColor=white">
-   <img src="https://img.shields.io/badge/0.105.122-zee?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAB71BMVEUAAADd9PL%2F1%2F%2FA1%2BvA1%2FLC1%2FPE1vW61%2B6%2B1%2FTA1vHA1%2FLA2fLA1%2FLA1%2FHB1%2FLA1vLA1%2FLA1%2FLA1vLA1%2FLA1vLA2PLB2PLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FHA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLoyIzcAAAApHRSTlMAAAABAQEBAgICAgIDBAQGBgcICAkJCQsMDQ4PDxAREhMYHB8iJCYnKCkuMTI1Nzo7PT4%2FQ0VGSEpMTVVWV1haW11gYWJjZWxtbm9xdHh6fX5%2FgIKEhoeJiouMjY6QkpOWmZucnZ6io6Smp6mrrK%2BwsbK5ury9vr%2FExsfIycrLzM7P0NHS09TV1tjb3d%2Fh4uTn6Onr7O7v8fLz9PX29%2Fj5%2Bvv8%2Fr2fbVIAAAH1SURBVFjDY2AYBaOAbCCgauEekV5Sm0mWblGzuMaZS8BgJhna5TyblsDBIpK1czh1LkECE0jVr5yHrH3JRH0S9Rt2o%2Bhf4kuifqtpqPqXTEkkSb%2FZjCUYgBT9WpMw9ZMSC4qtS7AbIC3Fj0sPIzsLM5zjOAeLAXOBEh19bcXxTpo8CH1S6qaugYnZRRXVdbU1leWFGbH%2BLubaSjohHYvQDZgCVL4YYlS1nyaQw61qHV3aOxebY6c05adVz0MT7QTqgZk601HCOKxq5hK8YDEavxhhQI9HcPviJaSCGIQBE2csIQPYIHmBHDBbBWjAbAoMqOYGGjCBAgMCQLHeRL7%2B%2BVogA3LJN6CME2SAH%2FkGOIATrgnZ%2BrskwQYokB2K3tC8k0Om%2Fm4ZqAG2ZBrgBsu98v1k6a8ShOf%2FKLLSgAGiAFGbSYYBkchFVyLp%2BuslkA1QmUaq%2FmnaqKUnqalxkSNa8SteR5oBwRgFuN4sUvQn82JWAV4k6M8VxlKHsCURr18cay0kVkCk%2FlQRHPWYbDFR%2BkO5cNaesoWEtU91xlf%2FiqcQ0l%2Bji78GZ%2FXBW8bPDZck2AgwasBThBoQ04yQCcKRL%2Brs%2BYhsiWgkTsfQvaDUToiExox6WBdKzmkJ12UisT0nY5nQDModCyc3ZXnpCo92LkbB4AcAXP2CVVnIgjAAAAAASUVORK5CYII%3D&label=Zee%20Version&labelColor=%236573b5&color=%23c0d7f2">
+   <img src="https://img.shields.io/badge/0.105.123-zee?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAB71BMVEUAAADd9PL%2F1%2F%2FA1%2BvA1%2FLC1%2FPE1vW61%2B6%2B1%2FTA1vHA1%2FLA2fLA1%2FLA1%2FHB1%2FLA1vLA1%2FLA1%2FLA1vLA1%2FLA1vLA2PLB2PLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FHA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLA1%2FLoyIzcAAAApHRSTlMAAAABAQEBAgICAgIDBAQGBgcICAkJCQsMDQ4PDxAREhMYHB8iJCYnKCkuMTI1Nzo7PT4%2FQ0VGSEpMTVVWV1haW11gYWJjZWxtbm9xdHh6fX5%2FgIKEhoeJiouMjY6QkpOWmZucnZ6io6Smp6mrrK%2BwsbK5ury9vr%2FExsfIycrLzM7P0NHS09TV1tjb3d%2Fh4uTn6Onr7O7v8fLz9PX29%2Fj5%2Bvv8%2Fr2fbVIAAAH1SURBVFjDY2AYBaOAbCCgauEekV5Sm0mWblGzuMaZS8BgJhna5TyblsDBIpK1czh1LkECE0jVr5yHrH3JRH0S9Rt2o%2Bhf4kuifqtpqPqXTEkkSb%2FZjCUYgBT9WpMw9ZMSC4qtS7AbIC3Fj0sPIzsLM5zjOAeLAXOBEh19bcXxTpo8CH1S6qaugYnZRRXVdbU1leWFGbH%2BLubaSjohHYvQDZgCVL4YYlS1nyaQw61qHV3aOxebY6c05adVz0MT7QTqgZk601HCOKxq5hK8YDEavxhhQI9HcPviJaSCGIQBE2csIQPYIHmBHDBbBWjAbAoMqOYGGjCBAgMCQLHeRL7%2B%2BVogA3LJN6CME2SAH%2FkGOIATrgnZ%2BrskwQYokB2K3tC8k0Om%2Fm4ZqAG2ZBrgBsu98v1k6a8ShOf%2FKLLSgAGiAFGbSYYBkchFVyLp%2BuslkA1QmUaq%2FmnaqKUnqalxkSNa8SteR5oBwRgFuN4sUvQn82JWAV4k6M8VxlKHsCURr18cay0kVkCk%2FlQRHPWYbDFR%2BkO5cNaesoWEtU91xlf%2FiqcQ0l%2Bji78GZ%2FXBW8bPDZck2AgwasBThBoQ04yQCcKRL%2Brs%2BYhsiWgkTsfQvaDUToiExox6WBdKzmkJ12UisT0nY5nQDModCyc3ZXnpCo92LkbB4AcAXP2CVVnIgjAAAAAASUVORK5CYII%3D&label=Zee%20Version&labelColor=%236573b5&color=%23c0d7f2">
    <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
    <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff">
    <img src="https://custom-icon-badges.demolab.com/badge/javascript-F9DC3E.svg?logo=javascript&logoColor=white">
@@ -114,49 +114,6 @@ http.createServer(async (req, res) => {
 ```
 
 ## 💠 Performance Analysis / تحلیل عملکرد
-#### 🔰 Performance / سرعت رندر (ms)
-|```Initial Render / رندر اولیه```|```-```|```Re-Render / رندر مجدد```|<br>------------2.1ms------------```-```---------0.8ms---------<br>
-
-#### 🔰 Memory Usage / مصرف حافظه
-|```Scenario / سناریو```|```-```|```Component Count / تعداد کامپوننت```|```-```|```Total Usage / کل مصرف```|<br>-------Light--------```-```-----------------20---------------```-```----------0.3MB----------<br>
-------Medium------```-```-----------------50--------------```-```----------0.75MB---------<br>
--------Heavy--------```-```----------------100-------------```-```-----------1.5MB----------<br>
-
-#### 🔰 Operational benchmark / بنچمارک عملیاتی
-|```Average time / میانگین زمان```|```-```|```CPU usage / مصرف پردازنده```|```-```|```Memory usage / مصرف حافظه```|<br>------------4.2ms------------```-```------------12%------------```-```------------45MB-------------<br>
-
-- #### 🔼 Initial render (2.1ms) / رندر اولیه (2.1ms)
-
-- The components are read from the memory cache / کامپوننت‌هااز کش حافظه خوانده می‌شوند
-- Zee's internal templating engine uses direct interpretation of the DOM / موتور تمپلیت داخلی زی از تفسیر مستقیم دام استفاده می‌کند
-- The absence of Virtual DOM eliminates the overhead of comparison and update / عدم وجود دام مجازی باعث حذف سربار مقایسه و بروزرسانی می‌شود
-- #### 🔼 Re-render (0.8ms) / رندر مجدد (0.8ms)
-- Essential components are preloaded / کامپوننت‌های ضروری از پیش بارگذاری شده‌اند
-- Changes only apply to variable sections (such as ${data.name}) / تغییرات فقط روی بخش‌های متغیر (مثل ${data.name}) اعمال می‌شود
-- Smart cache system prevents re-rendering of fixed sections / سیستم کش هوشمند از رندر مجدد بخش‌های ثابت جلوگیری می‌کند
-
-##### ✅ This architecture uses advanced techniques such as / این معماری با استفاده از تکنیک‌های پیشرفته مانند
-- ##### ✅ Smart preloading / پیش‌بارگذاری هوشمند
-- ##### ✅ Multilevel caching / کش‌گذاری چندسطحی
-- ##### ✅ Non-blocking rendering / رندر غیرمسدودکننده
-##### Achieved average rendering times below 10ms even for complex pages / به میانگین زمان رندر زیر 10ms حتی برای صفحات پیچیده دست یافته است.
-
-## ⚜️ The best choice for / بهترین انتخاب برای:
-
-### ✔️ Content-centric applications / برنامه‌های محتوا محور
-### ✔️ SEO-critical applications / برنامه‌های حیاتی برای سئو
-### ✔️ High-traffic websites / سایت‌های پرترافیک
-### ✔️ Cost-sensitive deployments / استقرارهای حساس به هزینه
-##### These advantages will be especially evident in high-traffic environments and limited hardware (such as low-cost servers) / این برتری‌ها به ویژه در محیط‌های زیر بار (ترافیک بالا) و سخت‌افزارهای محدود (مانند سرورهای ارزان‌قیمت) نمود بیشتری خواهد داشت.
-
-#### 🔰 Technical Reasons / دلایل فنی
-- No Virtual DOM overhead / عدم وجود سربار دام مجازی
-
-- Smart multi-layer caching / سیستم کش چندلایه هوشمند
-
-- Gradual rendering / رندر تدریجی
-
-## 💠 Performance Comparison - Extended Scenario / مقایسه عملکرد - سناریوی گسترده
 
 ###### Artificial intelligence was used in this experiment / در این ازمایش از هوش مصنوعی استفاده شده است
 
@@ -171,35 +128,50 @@ http.createServer(async (req, res) => {
 
 | Framework / فریمورک       | Avg. Time (ms) / میانگین زمان | CPU Usage / مصرف CPU | Memory (MB) / حافظه | SSR Support / پشتیبانی SSR | Component System / سیستم کامپوننت |
 |---------------------------|-------------------------------|----------------------|----------------------|----------------------------|-----------------------------------|
-| **ZeeJS**                 | 12.5                          | 38%                  | 45                   | Native / بومی              | Simple String-based / مبتنی بر رشته |
-| React (Next.js 13)        | 15.2                          | 92%                  | 1800                 | Automatic / خودکار         | JSX Virtual DOM                   |
-| Vue (Nuxt 3)              | 14.1                          | 85%                  | 1400                 | Hybrid / ترکیبی            | SFC Templates                     |
-| Svelte (SvelteKit)        | 13.5                          | 55%                  | 50                   | Optimized / بهینه‌شده       | Compiled Components               |
-| Astro                     | 14.8                          | 60%                  | 62                   | Islands / جزیره‌ای         | Framework-agnostic                |
-| EJS                       | 11.8                          | 65%                  | 40                   | Manual / دستی              | Template Literals                 |
-| Pug                       | 12.0                          | 68%                  | 42                   | Manual / دستی              | Indentation-based                 |
-| Qwik                      | 13.0                          | 48%                  | 55                   | Resumable / قابل ادامه     | Fine-grained Reactivity           |
-| SolidJS                   | 13.2                          | 52%                  | 58                   | Partial / جزئی             | Reactive Primitives               |
+| **ZeeJS**                 | 25-40                          | 8-12%                  | 90-120                   | Native / بومی              | Simple String-based / مبتنی بر رشته |
+| React (Next.js 13)        | 45-60                          | 12-18%                  | 120-150                 | Automatic / خودکار         | JSX Virtual DOM                   |
+| Vue (Nuxt 3)              | 40-55                          | 10-16%                  | 110-140                 | Hybrid / ترکیبی            | SFC Templates                     |
+| Svelte (SvelteKit)        | 20-35                          | 8-12%                  | 80-100                   | Optimized / بهینه‌شده       | Compiled Components               |
+| Astro                     | 15-30                          | 6-10%                  | 70-90                   | Islands / جزیره‌ای         | Framework-agnostic                |
+| EJS                       | 10-20                          | 5-8%                  | 50-70                   | Manual / دستی              | Template Literals                 |
+| Pug                       | 12-25                          | 5-9%                  | 55-75                   | Manual / دستی              | Indentation-based                 |
+| Qwik                      | 18-30                          | 7-11%                  | 75-95                   | Resumable / قابل ادامه     | Fine-grained Reactivity           |
+| SolidJS                   | 25-40                          | 9-13%                  | 90-110                   | Partial / جزئی             | Reactive Primitives               |
 
 ## 🔰 Key Findings / یافته‌های کلیدی
 
 ### Performance Ranking (Fastest to Slowest) / رتبه‌بندی عملکرد:
-1. EJS (11.8ms)
-2. Pug (12.0ms)
-3. **ZeeJS (12.5ms)**
-4. Qwik (13.0ms)
-5. SolidJS (13.2ms)
-6. Svelte (13.5ms)
-7. Vue (14.1ms)
-8. Astro (14.8ms)
-9. React (15.2ms)
+1. EJS (10-12ms)
+2. Pug (12-25ms)
+3. Qwik (13.0ms)
+4. SolidJS (13.2ms)
+5. Astro (15-30ms)
+6. Svelte (20-35ms)
+7. **ZeeJS (25-40ms)**
+8. Vue (40-55ms)
+9. React (45-60ms)
 
 ### Memory Efficiency / بهینه‌سازی حافظه:
-1. EJS (40MB)
-2. Pug (42MB)
-3. **ZeeJS (45MB)**
-4. Svelte (50MB)
-5. Qwik (55MB)
+1. EJS (50-70MB)
+2. Pug (55-75MB)
+3. Astro (70-90MB)
+4. Qwik (75-95MB)
+5. Svelte (80-100MB)
+6. SolidJS (90-110MB)
+7. **ZeeJS (90-120MB)**
+8. Vue (110-140ms)
+9. React (120-150ms)
+
+### CPU Usage / مصرف پردازنده
+1. EJS (5-8%)
+2. Pug (5-9%)
+3. Astro (6-10%)
+4. Qwik (7-11%)
+5. Svelte (8-12%)
+6. **ZeeJS (8-12%)**
+7. SolidJS (9-13%)
+8. Vue (10-16%)
+9. React (12-18%)
 
 ## 🔰 ZeeJS Component Architecture / معماری کامپوننت در ZeeJS
 
@@ -227,6 +199,26 @@ export default () => `
 <@css/>
 `;
 ```
+##### ✅ This architecture uses advanced techniques such as / این معماری با استفاده از تکنیک‌های پیشرفته مانند
+- ##### ✅ Smart preloading / پیش‌بارگذاری هوشمند
+- ##### ✅ Multilevel caching / کش‌گذاری چندسطحی
+- ##### ✅ Non-blocking rendering / رندر غیرمسدودکننده
+##### Achieved average rendering times below 10ms even for complex pages / به میانگین زمان رندر زیر 10ms حتی برای صفحات پیچیده دست یافته است.
+
+## ⚜️ The best choice for / بهترین انتخاب برای:
+
+### ✔️ Content-centric applications / برنامه‌های محتوا محور
+### ✔️ SEO-critical applications / برنامه‌های حیاتی برای سئو
+### ✔️ High-traffic websites / سایت‌های پرترافیک
+### ✔️ Cost-sensitive deployments / استقرارهای حساس به هزینه
+##### These advantages will be especially evident in high-traffic environments and limited hardware (such as low-cost servers) / این برتری‌ها به ویژه در محیط‌های زیر بار (ترافیک بالا) و سخت‌افزارهای محدود (مانند سرورهای ارزان‌قیمت) نمود بیشتری خواهد داشت.
+
+#### 🔰 Technical Reasons / دلایل فنی
+- No Virtual DOM overhead / عدم وجود سربار دام مجازی
+
+- Smart multi-layer caching / سیستم کش چندلایه هوشمند
+
+- Gradual rendering / رندر تدریجی
 
 ### 🔰 Analysis / تحلیل:
 

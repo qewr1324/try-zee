@@ -3,8 +3,7 @@
 import { existsSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-const CONFIG_TEMPLATE = `
-import RootCollection from "zee/root";
+const CONFIG_TEMPLATE = `import RootCollection from "try-zee/root";
 
 export default new RootCollection(() => {
     return {

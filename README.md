@@ -276,16 +276,6 @@ export default () => `
 
 - قابلیت اجرا: حتی روی سرورهای ارزان‌قیمت ۱ گیگابایتی
 
-## 💠 Coming Soon / به زودی 🚧
-
-- VSCode extension with syntax highlighting / اکستنشن VSCode با هایلایت سینتکس
-- Auto-configuration tools / ابزارهای پیکربندی خودکار
-- Enhanced developer tools / ابزارهای توسعه پیشرفته
-
-## Contribution / مشارکت 🤝
-
-Contributions are welcome! Please refer to the contribution guidelines. / مشارکت‌ها مورد استقبال هستند! لطفاً به راهنمای مشارکت مراجعه کنید.
-
 ## License / مجوز 📄
 
 Apache License 2.0 © Amir Hussein Muhammadi Fard
